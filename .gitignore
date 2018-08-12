@@ -1,3 +1,9 @@
 data/
 .DS_Store
 .VS_Code/*
+
+research/object_detection/.ipynb_checkpoints/
+research/object_detection/__pycache__/
+research/object_detection/core/__pycache__/
+research/object_detection/utils/__pycache__/
+
